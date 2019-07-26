@@ -2,7 +2,8 @@
 
 System developed as final work of bachelor course in Electrical Engineer. The program uses a convolutional neural network developed to simulate the control of access to environments in real time.
 
-
+### The Neural Network proposed
+[image](fig/rede.png)
 
 
 
