@@ -1,5 +1,4 @@
 ![logo](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/face3.png)
-## VALIDA 1.1
 
 System developed as final work of bachelor course in Electrical Engineer. The program uses a convolutional neural network developed to simulate the control of access to environments in real time.
 
