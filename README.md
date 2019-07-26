@@ -8,5 +8,5 @@ System developed as final work of bachelor course in Electrical Engineer. The pr
 ### System's Layout
 ![Layout](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/valida.png)
 
-[File](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/tcc_wander.pdf)
+[File](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/tcc_wander_final.pdf)
 
