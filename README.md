@@ -6,7 +6,7 @@ System developed as final work of bachelor course in Electrical Engineer. The pr
 ![CNN](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/rede.png)
 
 ### System's Layout
-![Layout](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/fotos_01.png)
+![Layout](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/fig/valida.png)
 
 ### Documentation
 [File](https://raw.githubusercontent.com/WanderScheidegger/valida1.1/master/tcc_wander_final.pdf)
